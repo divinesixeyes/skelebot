@@ -8,3 +8,6 @@ this code includes a fully functional command handler along with a few example c
 this does not include slash commands & other integrations. i hope to soon push another example code with integrations utilized.
 
 i'm not the most professional nor knowledgable programmer. take my words with a grain of salt and PLEASE read the documentation provided. 
+
+this project utilizes discord.js v14.11 and will occasionally be maintained. 
+this isn't built for scaling, but just to get your foot in the door.
